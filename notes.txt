@@ -1,2 +1,3 @@
 This is a sample file added to Git and Github
 I'm adding a new feature
+I'm adding this new line for feature-2
