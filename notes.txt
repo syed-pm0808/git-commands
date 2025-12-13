@@ -1,1 +1,2 @@
 This is a sample file added to Git and Github
+I'm adding a new feature
